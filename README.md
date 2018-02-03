@@ -16,11 +16,12 @@
 
 [Google Maps](https://www.google.se/maps/place/58°40'25.8"N+17°04'49.4"E/)
 
-Gå in genom huvudentren, sväng vänster och gå förbi Medleys gym.
-Sväng sedan höger och gå ner för den andra trappan i korridoren.
+Gå in genom huvudentren, sväng vänster och gå längst bort i korridoren, förbi Medleys gym och gymnastikhallen.
+Sväng sedan höger och gå halvvägs genom den nya korridoren.
+Gå nerför trappan i mitten av korridoren.
 Två våningar ner hittar du Oxelösunds Atletklubb.
 
-![](https://github.com/oxelosundsak/oxelosundsak.github.io/raw/master/vagbeskrivning.png)
+![](https://github.com/oxelosundsak/oxelosundsak.github.io/raw/master/Vagbeskrivning.png)
 
 ## Medlemsavgift
 
