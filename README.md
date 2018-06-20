@@ -1,16 +1,18 @@
 # Oxelösunds Atletklubb
 
-## Öppettider
+## Öppettider i sommar (25/6 - 12/8)
 
-| Veckodag | Öppet |
-| -------- | ----- |
-| Måndag   | 6-22  |
-| Tisdag   | 6-22  |
-| Onsdag   | 6-22  |
-| Torsdag  | 6-22  |
-| Fredag   | 6-22  |
-| Lördag   | 9-18  |
-| Söndag   | 9-18  |
+| Veckodag | Öppet   |
+| -------- | ------- |
+| Måndag   | 7-19:30 |
+| Tisdag   | 7-19:30 |
+| Onsdag   | 7-19:30 |
+| Torsdag  | 7-19:30 |
+| Fredag   | 7-19:30 |
+| Lördag   | 8-19:30 |
+| Söndag   | 8-19:30 |
+
+OBS! Alla måste vara ute ur byggnaden innan 19:30!
 
 ## Hitta hit
 
@@ -75,8 +77,8 @@ Giltigt till och med 31 december:
 
 | Namn                  | Telefonnummer |
 | --------------------- | ------------- |
-| Håkan "Olga" Carlsson | 𝟶𝟽𝟶-𝟼𝟿𝟹 𝟼𝟷 𝟷𝟻 |
-| Lars Svensson         | 𝟶𝟽𝟹-𝟶𝟿𝟼 𝟿𝟾 𝟹𝟿 |
-| Danne Johansson       | 𝟶𝟽𝟼-𝟾𝟶𝟶 𝟶𝟸 𝟽𝟿 |
-| Tony Hallberg         | 𝟶𝟽𝟶-𝟺𝟸𝟺 𝟾𝟺 𝟿𝟻 |
-| Sebastian Gideland    | 𝟶𝟽𝟶-𝟽𝟽𝟿 𝟽𝟷 𝟸𝟾 |
+| Håkan "Olga" Carlsson | ![](https://github.com/oxelosundsak/oxelosundsak.github.io/raw/master/nr1.png) |
+| Lars Svensson         | ![](https://github.com/oxelosundsak/oxelosundsak.github.io/raw/master/nr2.png) |
+| Danne Johansson       | ![](https://github.com/oxelosundsak/oxelosundsak.github.io/raw/master/nr3.png) |
+| Tony Hallberg         | ![](https://github.com/oxelosundsak/oxelosundsak.github.io/raw/master/nr4.png) |
+| Sebastian Gideland    | ![](https://github.com/oxelosundsak/oxelosundsak.github.io/raw/master/nr5.png) |
